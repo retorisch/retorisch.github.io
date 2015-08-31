@@ -229,3 +229,14 @@ ul li {
   margin-right: 25px;
   float: left;
 }
+
+/* Archive */
+.archive p {
+ margin-left: 150px;
+ text-indent: -150px;
+ width: 770px;
+}
+.archive .date {
+ float:left;
+ width:150px;
+}

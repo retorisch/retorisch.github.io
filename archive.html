@@ -1,0 +1,12 @@
+---
+layout: retorisch
+---
+
+<div class="archive">
+{% for page in site.posts %}
+	<p><span class="date">{{ page.date | date: '%d %b %Y' }}</span>
+	<a href="{{ page.url | replace:'.html','' }}">{{ page.title }}</a>
+		{% if page.excerpt %}<br>{{ page.excerpt }}{% endif %}
+	</p>
+{% endfor %}
+</div>
