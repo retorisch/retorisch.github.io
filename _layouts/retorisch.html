@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>{% if page.Title %}{{ page.Title }} - Het Retorisch Kwartet{% else %}Het Retorisch Kwartet{% endif %}</title>
+	<meta name="description" content="Het Retorisch Kwartet ‘The rhetorical quartet’ is an early music vocal quartet based in Rotterdam, the Netherlands" />
+	<meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1.0;">
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<meta name="ROBOTS" content="INDEX,FOLLOW">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	{% if page.excerpt %}<meta name="description" content="{{ page.excerpt }}">{% else %}<meta name="description" content="Het Retorisch Kwartet | ‘The rhetorical quartet’ is an early music vocal quartet based in Rotterdam, the Netherlands">{% endif %}
+	<meta property="og:url" content="/">
+	<meta property="og:site_name" content="Het Retorisch Kwartet">
+	<link rel="shortcut icon" href="style/favicon.png">
+	<link href="style/reset.css" type="text/css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911' rel='stylesheet' type='text/css'>
+	<link href="style/retorisch.css" type="text/css" rel="stylesheet">
+</head>
+{% if page.date %}{% assign page_type = 'post' %}{% else %}{% assign page_type = 'page' %}{% endif %}
+<body>
+	<div class="wrapper">
+		<div class="blog">
+			<h1><a href="/">Het Retorisch Kwartet</a></h1>
+			<span class="blog-description">‘The rhetorical quartet’ is an early music vocal quartet based in Rotterdam, the Netherlands</span>
+			<div id="menu">
+				<a href="agenda">Agenda</a>
+				<a href="repertoire">Repertoire</a>
+				<a href="members">Members</a>
+				<a href="archive">Archive</a>
+			</div>
+			
+			<div class="container">
+				<div class="{{ page_type }}">
+					<div class="content">
+						<div class="title"><h3><a href="{{ page.url | replace:'.html','' }}">{{ page.title }}</a></h3></div>
+							{% if page.date %}
+								<div class="meta"><span class="date">{{ page.date | date_to_long_string }}</span></div>
+							{% endif %}
+						<div class="body-{{ page_type }}">
+							{% if page.excerpt %}<span class="introduction">{{ page.excerpt }}</span>{% endif %}
+							{{ content }}
+							<div class="share-buttons">
+								<div class="share-twitter">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="clear"></div>
+				</div>
+				<div class="pagination"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
