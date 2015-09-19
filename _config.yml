@@ -1,4 +1,4 @@
-future: false
+future: true
 markdown: kramdown
 permalink: ":year-:month-:day.html"
 timezone: Europe/Amsterdam
