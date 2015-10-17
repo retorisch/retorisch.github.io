@@ -4,17 +4,19 @@ title: Repertoire
 Type: page
 ---
 
-#### Next programme
-
-Madrigals by de Monte.
-
 #### Planned
 
-* _O bella man, che mi destringi ’l core_ - Luca Marenzio
-* _Candido leggiadretto e caro guanto_ - Luca Marenzio
-* _Amor ben mi credevo_ - Cipriano de Rore
-* _Beato mi direi_ - Cipriano de Rore 
-* _Ben qui si mostra il ciel_ - Cipriano de Rore 
+* _Joyssance vous donneray_ - Claudin de Sermisy ([CPDL #09270](http://www.cpdl.org/wiki/index.php/Joyssance_vous_donneray_(Claudin_de_Sermisy)), [YouTube](https://www.youtube.com/watch?v=CyZTd1puy7k)
+* _Dissi a l’amata mia_ - Luca Marenzio
+* _Vezzosi augelli_ -  - Luca Marenzio
+* _Affliger chi per voi_ - Luca Marenzio
+* _Autant en emporte le vent_ - Pierre de la Rue
+* _Myn hert altyt heeft verlanghen_ - Pierre de la Rue
+* _Het molenarinneken_ - Matthæus Pipelare
+* _Een vrouelic wesen_ - Matthæus Pipelare 
+
+#### Shelved
+
 * _Ave Regina coelorum à 4_  - Guillaume Dufay [CPDL #17011](http://www.cpdl.org/wiki/index.php/Ave_Regina_coelorum_a_4_%28Guillaume_Dufay%29)
 * _Mass for Four Voices_ - William Byrd [CPDL #18634](http://www.cpdl.org/wiki/index.php/Mass_for_Four_Voices_%28William_Byrd%29)
 
@@ -79,6 +81,11 @@ Madrigals by de Monte.
 * _Messe de Nostre Dame - Kyrie_  [CPDL #04631](http://www.cpdl.org/wiki/index.php/Messe_de_Nostre_Dame_%28Guillaume_de_Machaut%29) ([YouTube](http://www.youtube.com/watch?v=11A4wqv8_wo))
 * _Messe de Nostre Dame - Gloria_  - de Machaut [CPDL #12867](http://www.cpdl.org/wiki/index.php/Messe_de_Nostre_Dame_%28Guillaume_de_Machaut%29) ([YouTube](http://www.youtube.com/watch?v=7QuO50Kt1F8))
 
+[Luca Marenzio](https://en.wikipedia.org/wiki/Luca_Marenzio) (1556-1599)
+
+* _O bella man, che mi destringi ’l core_
+* _Candido leggiadretto e caro guanto_
+
 [Johann Valentin Meder](http://en.wikipedia.org/wiki/Johann_Valentin_Meder) (1649 – 1719)
 
 * _Oratorio Passion according to St Matthew_ ([Nr 1-8 YouTube](http://www.youtube.com/watch?v=3U9tAktyrzw))
@@ -104,6 +111,12 @@ Madrigals by de Monte.
 [Albertus Parisiensis](http://en.wikipedia.org/wiki/Albertus_Parisiensis) (1146–1177)
 
 * _Congaudeant Catholici_ ([HRK edition](/post/parisiensis-congaudeant-catholici)) ([YouTube](http://www.youtube.com/watch?v=ej5qJVDmPQo))
+
+[Cipriano de Rore](https://en.wikipedia.org/wiki/Cipriano_de_Rore) (c.1515-1565)
+
+* _Beato mi direi_
+* _Amor ben mi credevo_
+* _Ben qui si mostra il ciel_
 
 [Arnold Schönberg](http://en.wikipedia.org/wiki/Arnold_Schoenberg) (1874 – 1951)
 
