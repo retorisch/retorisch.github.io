@@ -6,14 +6,14 @@ Type: page
 
 #### Planned
 
-* _Joyssance vous donneray_ - Claudin de Sermisy ([CPDL #09270](http://www.cpdl.org/wiki/index.php/Joyssance_vous_donneray_(Claudin_de_Sermisy)), [YouTube](https://www.youtube.com/watch?v=CyZTd1puy7k)
+* _Joyssance vous donneray_ - Claudin de Sermisy ([CPDL #09270](http://www.cpdl.org/wiki/index.php/Joyssance_vous_donneray_(Claudin_de_Sermisy)), [YouTube](https://www.youtube.com/watch?v=CyZTd1puy7k))
 * _Dissi a l’amata mia_ - Luca Marenzio
 * _Vezzosi augelli_ -  - Luca Marenzio
 * _Affliger chi per voi_ - Luca Marenzio
-* _Autant en emporte le vent_ - Pierre de la Rue
+* _Autant en emporte le vent_ - Pierre de la Rue ([CPDL #12200](http://www.cpdl.org/wiki/index.php/Autant_en_emporte_le_vent_(Pierre_de_La_Rue)), [YouTube](https://www.youtube.com/watch?v=xb7b4DiXxkI))
 * _Myn hert altyt heeft verlanghen_ - Pierre de la Rue
 * _Het molenarinneken_ - Matthæus Pipelare
-* _Een vrouelic wesen_ - Matthæus Pipelare 
+* _Een vrouelic wesen_ - Matthæus Pipelare  ([YouTube](https://www.youtube.com/watch?v=2orB7-yPwvg))
 
 #### Shelved
 
