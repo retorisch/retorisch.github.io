@@ -6,19 +6,15 @@ Type: page
 
 #### Planned
 
-* _Joyssance vous donneray_ - Claudin de Sermisy ([CPDL #09270](http://www.cpdl.org/wiki/index.php/Joyssance_vous_donneray_(Claudin_de_Sermisy)), [YouTube](https://www.youtube.com/watch?v=CyZTd1puy7k))
+* _Affliger chi per voi_ - Luca Marenzio
 * _Dissi a l’amata mia_ - Luca Marenzio
 * _Vezzosi augelli_ -  - Luca Marenzio
-* _Affliger chi per voi_ - Luca Marenzio
-* _Autant en emporte le vent_ - Pierre de la Rue ([CPDL #12200](http://www.cpdl.org/wiki/index.php/Autant_en_emporte_le_vent_(Pierre_de_La_Rue)), [YouTube](https://www.youtube.com/watch?v=xb7b4DiXxkI))
-* _Myn hert altyt heeft verlanghen_ - Pierre de la Rue
 * _Het molenarinneken_ - Matthæus Pipelare
 * _Een vrouelic wesen_ - Matthæus Pipelare  ([YouTube](https://www.youtube.com/watch?v=2orB7-yPwvg))
-
-#### Shelved
-
-* _Ave Regina coelorum à 4_  - Guillaume Dufay [CPDL #17011](http://www.cpdl.org/wiki/index.php/Ave_Regina_coelorum_a_4_%28Guillaume_Dufay%29)
-* _Mass for Four Voices_ - William Byrd [CPDL #18634](http://www.cpdl.org/wiki/index.php/Mass_for_Four_Voices_%28William_Byrd%29)
+* _Autant en emporte le vent_ - Pierre de la Rue ([CPDL #12200](http://www.cpdl.org/wiki/index.php/Autant_en_emporte_le_vent_(Pierre_de_La_Rue)), [YouTube](https://www.youtube.com/watch?v=xb7b4DiXxkI))
+* _Myn hert altyt heeft verlanghen_ - Pierre de la Rue
+* _Joyssance vous donneray_ - Claudin de Sermisy ([CPDL #09270](http://www.cpdl.org/wiki/index.php/Joyssance_vous_donneray_(Claudin_de_Sermisy)), [YouTube](https://www.youtube.com/watch?v=CyZTd1puy7k))
+* _Tes Beaux Yeux_ - Jan Pieterszoon Sweelinck
 
 #### Previously performed
 
@@ -130,3 +126,8 @@ Type: page
 [Tomás Luis de Victoria](https://en.wikipedia.org/wiki/Tomás_Luis_de_Victoria) (c.1548 – 1611)
 
 * _Tenebrae factae sunt_
+
+#### Shelved
+
+* _Ave Regina coelorum à 4_  - Guillaume Dufay [CPDL #17011](http://www.cpdl.org/wiki/index.php/Ave_Regina_coelorum_a_4_%28Guillaume_Dufay%29)
+* _Mass for Four Voices_ - William Byrd [CPDL #18634](http://www.cpdl.org/wiki/index.php/Mass_for_Four_Voices_%28William_Byrd%29)
