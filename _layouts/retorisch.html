@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>{% if page.Title %}{{ page.Title }} - Het Retorisch Kwartet{% else %}Het Retorisch Kwartet{% endif %}</title>
+<title>{% if page.title %}{{ page.title }} - Het Retorisch Kwartet{% else %}Het Retorisch Kwartet{% endif %}</title>
 <meta name="description" content="Het Retorisch Kwartet ‘The rhetorical quartet’ is an early music vocal quartet based in Rotterdam, the Netherlands" />
 <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1.0;">
 <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -12,10 +12,10 @@
 {% if page.excerpt %}<meta name="description" content="{{ page.excerpt }}">{% else %}<meta name="description" content="Het Retorisch Kwartet | ‘The rhetorical quartet’ is an early music vocal quartet based in Rotterdam, the Netherlands">{% endif %}
 <meta property="og:url" content="/">
 <meta property="og:site_name" content="Het Retorisch Kwartet">
-{% if page.Title %}
+{% if page.title %}
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@retorisch" />
-<meta name="twitter:title" content="{{ page.Title }}" />
+<meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="{{ page.excerpt }}" />
 {% endif %}
 <link rel="shortcut icon" href="style/favicon.png">
