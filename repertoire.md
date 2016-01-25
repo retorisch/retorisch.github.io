@@ -4,18 +4,6 @@ title: Repertoire
 Type: page
 ---
 
-#### Planned
-
-* _Dissi a l’amata mia_ - Luca Marenzio
-* _Vezzosi augelli_ -  - Luca Marenzio - [YouTube](https://www.youtube.com/watch?v=B1uroW--atA)
-* _Het molenarinneken_ - Matthæus Pipelare - [CPDL #38059](http://www.cpdl.org/wiki/index.php/Het_Molenarinneken_%28Matthaeus_Pipelare%29)
-* _Een vrouelic wesen_ - Matthæus Pipelare - [CPDL #38204](http://www2.cpdl.org/wiki/index.php/Een_vrouelic_wesen_%28Matthaeus_Pipelare%29), [YouTube](https://www.youtube.com/watch?v=2orB7-yPwvg)
-* _Autant en emporte le vent_ - Pierre de la Rue - [CPDL #12200](http://www.cpdl.org/wiki/index.php/Autant_en_emporte_le_vent_%28Pierre_de_La_Rue%29), [YouTube](https://www.youtube.com/watch?v=xb7b4DiXxkI)
-* _Myn hert altyt heeft verlanghen_ - Pierre de la Rue - [YouTube](https://www.youtube.com/watch?v=BBnUMNzOxVA)
-* _Joyssance vous donneray_ - Claudin de Sermisy - [CPDL #09270](http://www.cpdl.org/wiki/index.php/Joyssance_vous_donneray_%28Claudin_de_Sermisy%29), [YouTube](https://www.youtube.com/watch?v=CyZTd1puy7k)
-* _Tes Beaux Yeux_ - Jan Pieterszoon Sweelinck
-* _Sempre mi ride_ - Adriaen Willaert - [YouTube](https://www.youtube.com/watch?v=guLn_Jt7Nwg)
-
 #### Previously performed
 
 [John Bennet](http://en.wikipedia.org/wiki/John_Bennet) (1574 - 1614)
@@ -79,8 +67,10 @@ Type: page
 
 [Luca Marenzio](https://en.wikipedia.org/wiki/Luca_Marenzio) (1556-1599)
 
-* _O bella man, che mi destringi ’l core_
 * _Candido leggiadretto e caro guanto_
+* _Dissi a l’amata mia_
+* _O bella man, che mi destringi ’l core_
+* _Vezzosi augelli_ - [YouTube](https://www.youtube.com/watch?v=B1uroW--atA)
 
 [Johann Valentin Meder](http://en.wikipedia.org/wiki/Johann_Valentin_Meder) (1649 – 1719)
 
@@ -108,24 +98,44 @@ Type: page
 
 * _Congaudeant Catholici_ ([HRK edition](/post/parisiensis-congaudeant-catholici%29) ([YouTube](http://www.youtube.com/watch?v=ej5qJVDmPQo%29)
 
-[Cipriano de Rore](https://en.wikipedia.org/wiki/Cipriano_de_Rore) (c.1515-1565)
+[Matthæus Pipelare](https://en.wikipedia.org/wiki/Matthaeus_Pipelare) (c. 1450 – c. 1515)
+
+* _Het molenarinneken_ - [CPDL #38059](http://www.cpdl.org/wiki/index.php/Het_Molenarinneken_%28Matthaeus_Pipelare%29)
+* _Een vrouelic wesen_ - [CPDL #38204](http://www2.cpdl.org/wiki/index.php/Een_vrouelic_wesen_%28Matthaeus_Pipelare%29), [YouTube](https://www.youtube.com/watch?v=2orB7-yPwvg)
+
+[Cipriano de Rore](https://en.wikipedia.org/wiki/Cipriano_de_Rore) (c. 1515 - 1565)
 
 * _Beato mi direi_
 * _Amor ben mi credevo_
 * _Ben qui si mostra il ciel_
+
+[Pierre de la Rue](https://en.wikipedia.org/wiki/Pierre_de_la_Rue) (c. 1452 – 1518)
+
+* _Autant en emporte le vent_ - [CPDL #12200](http://www.cpdl.org/wiki/index.php/Autant_en_emporte_le_vent_%28Pierre_de_La_Rue%29), [YouTube](https://www.youtube.com/watch?v=xb7b4DiXxkI)
+* _Myn hert altyt heeft verlanghen_ - [YouTube](https://www.youtube.com/watch?v=BBnUMNzOxVA)
 
 [Arnold Schönberg](http://en.wikipedia.org/wiki/Arnold_Schoenberg) (1874 – 1951)
 
 * _Schein uns, du liebe Sonne_ ([YouTube](http://www.youtube.com/watch?v=u5DY9pvEGdg%29)
 * _Herzlieblich Lieb, Durch Scheiden_
 
+[Claudin de Sermisy](https://en.wikipedia.org/wiki/Claudin_de_Sermisy) (c. 1490 – 1562)
+
+* _Joyssance vous donneray_ - [CPDL #09270](http://www.cpdl.org/wiki/index.php/Joyssance_vous_donneray_%28Claudin_de_Sermisy%29), [YouTube](https://www.youtube.com/watch?v=CyZTd1puy7k)
+
 [Jan Pieterszoon Sweelinck](http://en.wikipedia.org/wiki/Jan_Pieterszoon_Sweelinck) (1562-1621)
 
 * _Je voy mille clairtez_
+* _Tes Beaux Yeux_
 
 [Tomás Luis de Victoria](https://en.wikipedia.org/wiki/Tomás_Luis_de_Victoria) (c.1548 – 1611)
 
 * _Tenebrae factae sunt_
+
+[Adrian Willaert](https://en.wikipedia.org/wiki/Adrian_Willaert) (c. 1490 – 1562)
+
+* _Sempre mi ride_ - [YouTube](https://www.youtube.com/watch?v=guLn_Jt7Nwg)
+
 
 #### Shelved
 
