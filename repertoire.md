@@ -4,6 +4,11 @@ title: Repertoire
 Type: page
 ---
 
+#### Planned
+
+* _Missa pro defunctis_ - Jacob Clemens non Papa [CPDL #33472](http://www.cpdl.org/wiki/index.php/Missa_pro_defunctis_%28Jacobus_Clemens_non_Papa%29)
+* _Mass for Four Voices_ - William Byrd [CPDL #18634](http://www.cpdl.org/wiki/index.php/Mass_for_Four_Voices_%28William_Byrd%29)
+
 #### Previously performed
 
 [John Bennet](http://en.wikipedia.org/wiki/John_Bennet) (1574 - 1614)
@@ -23,7 +28,7 @@ Type: page
 
 [Jacob Clemens non Papa](https://en.wikipedia.org/wiki/Jacob_Clemens_non_Papa) (c. 1510 – 1555)
 
-* _Introitus_ from _Missa defunctorum_
+* _Introitus_ from _Missa pro defunctis_ [CPDL #33472](http://www.cpdl.org/wiki/index.php/Missa_pro_defunctis_%28Jacobus_Clemens_non_Papa%29)
 
 [John Dowland](http://en.wikipedia.org/wiki/John_Dowland) (1563-1626)
 
@@ -140,4 +145,3 @@ Type: page
 #### Shelved
 
 * _Ave Regina coelorum à 4_  - Guillaume Dufay [CPDL #17011](http://www.cpdl.org/wiki/index.php/Ave_Regina_coelorum_a_4_%28Guillaume_Dufay%29)
-* _Mass for Four Voices_ - William Byrd [CPDL #18634](http://www.cpdl.org/wiki/index.php/Mass_for_Four_Voices_%28William_Byrd%29)
