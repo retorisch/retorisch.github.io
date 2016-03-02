@@ -6,7 +6,17 @@ Type: page
 
 #### Planned
 
+A programme combining works by Clemens and Willaert.
+
+* _Crux fidelis_ - Jacob Clemens non Papa [CPDL #18582](http://www.cpdl.org/wiki/index.php/Crux_fidelis_%28Jacobus_Clemens_non_Papa%29)
 * _Missa pro defunctis_ - Jacob Clemens non Papa [CPDL #33472](http://www.cpdl.org/wiki/index.php/Missa_pro_defunctis_%28Jacobus_Clemens_non_Papa%29)
+* _Mirabile Mysterium_ - Adrian Willaert  [CPDL #37020](http://www.cpdl.org/wiki/index.php/Mirabile_mysterium_%28Adrian_Willaert%29)
+* _Missa Christus Resurgens_ - Adrian Willaert *CMM 3-09 Vol.IX*
+* _O bene mio_ - Adrian Willaert  [CPDL](http://www.cpdl.org/wiki/index.php/O_bene_mio_%28Adrian_Willaert%29)
+* _Pater noster / Ave Maria_ - Adrian Willaert  [CPDL #12137](http://www.cpdl.org/wiki/index.php/Pater_noster_-_Ave_Maria_%28Adrian_Willaert%29)
+
+#### On the back burner
+
 * _Mass for Four Voices_ - William Byrd [CPDL #18634](http://www.cpdl.org/wiki/index.php/Mass_for_Four_Voices_%28William_Byrd%29)
 
 #### Previously performed
