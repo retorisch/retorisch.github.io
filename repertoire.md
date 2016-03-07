@@ -8,12 +8,22 @@ Type: page
 
 A programme combining works by Clemens and Willaert.
 
+* _Au joly boquet croist la violette_ - Jacob Clemens non Papa
 * _Crux fidelis_ - Jacob Clemens non Papa [CPDL #18582](http://www.cpdl.org/wiki/index.php/Crux_fidelis_%28Jacobus_Clemens_non_Papa%29)
-* _Missa pro defunctis_ - Jacob Clemens non Papa [CPDL #33472](http://www.cpdl.org/wiki/index.php/Missa_pro_defunctis_%28Jacobus_Clemens_non_Papa%29)
-* _Mirabile Mysterium_ - Adrian Willaert  [CPDL #37020](http://www.cpdl.org/wiki/index.php/Mirabile_mysterium_%28Adrian_Willaert%29)
+* _La, la, maistre Pierre_ - Jacob Clemens non Papa
+* _Missa pro defunctis_ (19’30”) - Jacob Clemens non Papa [CPDL #33472](http://www.cpdl.org/wiki/index.php/Missa_pro_defunctis_%28Jacobus_Clemens_non_Papa%29)
+* _Pour une, las, j’endure_ - Jacob Clemens non Papa
+* _Crux fidelis_ - Adrian Willaert
+* _Dulces exuviae_ - Adrian Willaert
+* _Madonna mia fa_ - Adrian Willaert
+* _Mirabile Mysterium_ (4’30”) - Adrian Willaert [CPDL #37020](http://www.cpdl.org/wiki/index.php/Mirabile_mysterium_%28Adrian_Willaert%29)
 * _Missa Christus Resurgens_ - Adrian Willaert *CMM 3-09 Vol.IX*
 * _O bene mio_ - Adrian Willaert  [CPDL](http://www.cpdl.org/wiki/index.php/O_bene_mio_%28Adrian_Willaert%29)
 * _Pater noster / Ave Maria_ - Adrian Willaert  [CPDL #12137](http://www.cpdl.org/wiki/index.php/Pater_noster_-_Ave_Maria_%28Adrian_Willaert%29)
+* _Soeur_ - Adrian Willaert
+* _Un giorno mi prego_ (2’10”) - Adrian Willaert
+* _Vecchie letrose_ - Adrian Willaert
+* _Zoia Zentil_ - Adrian Willaert
 
 #### On the back burner
 
