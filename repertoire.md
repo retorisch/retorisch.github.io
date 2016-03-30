@@ -6,24 +6,37 @@ Type: page
 
 #### Planned
 
-A programme combining works by Clemens and Willaert.
+Willaert (sacred):
 
-* _Au joly boquet croist la violette_ - Jacob Clemens non Papa [YouTube](https://www.youtube.com/watch?v=PpGw19nzYGk)
-* _Crux fidelis_ - Jacob Clemens non Papa [CPDL #18582](http://www.cpdl.org/wiki/index.php/Crux_fidelis_%28Jacobus_Clemens_non_Papa%29)
-* _La, la, maistre Pierre_ - Jacob Clemens non Papa [YouTube](https://www.youtube.com/watch?v=E7Wh2GJcGNU)
-* _Missa pro defunctis_ (19’30”) - Jacob Clemens non Papa [CPDL #33472](http://www.cpdl.org/wiki/index.php/Missa_pro_defunctis_%28Jacobus_Clemens_non_Papa%29)
-* _Pour une, las, j’endure_ - Jacob Clemens non Papa
 * _Crux fidelis_ - Adrian Willaert
 * _Dulces exuviae_ - Adrian Willaert
-* _Madonna mia fa_ - Adrian Willaert
 * _Mirabile Mysterium_ (4’30”) - Adrian Willaert [CPDL #37020](http://www.cpdl.org/wiki/index.php/Mirabile_mysterium_%28Adrian_Willaert%29)
-* _Missa Christus Resurgens_ - Adrian Willaert *CMM 3-09 Vol.IX*
-* _O bene mio_ - Adrian Willaert  [CPDL](http://www.cpdl.org/wiki/index.php/O_bene_mio_%28Adrian_Willaert%29)
+* _O magnum mysterium_
 * _Pater noster / Ave Maria_ - Adrian Willaert  [CPDL #12137](http://www.cpdl.org/wiki/index.php/Pater_noster_-_Ave_Maria_%28Adrian_Willaert%29)
+* _Missa Christus Resurgens_ - Adrian Willaert *CMM 3-09 Vol.IX*
+
+Willaert (secular):
+
+* _Madonna mia famme bon offerta_ - Adrian Willaert
+* _Madonna io non lo so perche lo fai_ - Adrian Willaert
+* _O bene mio_ - Adrian Willaert  [CPDL](http://www.cpdl.org/wiki/index.php/O_bene_mio_%28Adrian_Willaert%29)
 * _Soeur_ - Adrian Willaert
 * _Un giorno mi prego_ (2’10”) - Adrian Willaert [YouTube](https://www.youtube.com/watch?v=oVDKJDzYt1U)
 * _Vecchie letrose_ - Adrian Willaert [YouTube](https://www.youtube.com/watch?v=IRMJsWI1zYI)
 * _Zoia Zentil_ - Adrian Willaert
+
+Clemens (sacred):
+
+* _Crux fidelis_ - Jacob Clemens non Papa [CPDL #18582](http://www.cpdl.org/wiki/index.php/Crux_fidelis_%28Jacobus_Clemens_non_Papa%29)
+* _Missa pro defunctis_ (19’30”) - Jacob Clemens non Papa [CPDL #33472](http://www.cpdl.org/wiki/index.php/Missa_pro_defunctis_%28Jacobus_Clemens_non_Papa%29)
+* _Pere eternel_ - Jacob Clemens non Papa
+
+Clemens (secular):
+
+* _Au joly boquet croist la violette_ - Jacob Clemens non Papa [YouTube](https://www.youtube.com/watch?v=PpGw19nzYGk)
+* _La, la, maistre Pierre_ - Jacob Clemens non Papa [YouTube](https://www.youtube.com/watch?v=E7Wh2GJcGNU)
+* _Pour une, las, j’endure_ - Jacob Clemens non Papa
+
 
 #### On the back burner
 
