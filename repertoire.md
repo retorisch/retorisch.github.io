@@ -11,13 +11,12 @@ Willaert (sacred):
 * _Crux fidelis_ - Adrian Willaert
 * _Dulces exuviae_ - Adrian Willaert
 * _Mirabile Mysterium_ (4’30”) - Adrian Willaert [CPDL #37020](http://www.cpdl.org/wiki/index.php/Mirabile_mysterium_%28Adrian_Willaert%29)
-* _O magnum mysterium_
+* _O magnum mysterium_ - Adrian Willaert
 * _Pater noster / Ave Maria_ - Adrian Willaert  [CPDL #12137](http://www.cpdl.org/wiki/index.php/Pater_noster_-_Ave_Maria_%28Adrian_Willaert%29)
 * _Missa Christus Resurgens_ - Adrian Willaert *CMM 3-09 Vol.IX*
 
 Willaert (secular):
 
-* _Madonna mia famme bon offerta_ - Adrian Willaert
 * _Madonna io non lo so perche lo fai_ - Adrian Willaert
 * _O bene mio_ - Adrian Willaert  [CPDL](http://www.cpdl.org/wiki/index.php/O_bene_mio_%28Adrian_Willaert%29)
 * _Soeur_ - Adrian Willaert
