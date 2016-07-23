@@ -4,15 +4,26 @@ title: Repertoire
 Type: page
 ---
 
-#### Planned
+#### Planned - [January 2017](/2017-01-15)
+
+* _Missa Christus Resurgens - Kyrie_ - Adrian Willaert *CMM 3-09 Vol.IX*
+* _Missa Christus Resurgens - Agnus Dei_ - Adrian Willaert *CMM 3-09 Vol.IX*
+* _Qui condolens interitu_ - Constanzo Festa
+* _Quis dabit oculis_ - Constanzo Festa [CPDL #39985](http://www.cpdl.org/wiki/index.php/Quis_dabit_oculis_(Costanzo_Festa))
+* _Ave decus virginale_ - Johannes Martini
+* _Magnificat secundi toni_ - Johannes Martini [CPDL #35487](http://www.cpdl.org/wiki/index.php/Magnificat_secundi_toni_(Johannes_Martini))
+* _’T Meisken was jonck_ - Heinrich Isaac
+* _Innsbruck, ich muss dich lassen_ - Heinrich Isaac
+
+#### Planned - [October 2016](/2015-10-10)
 
 Willaert (sacred):
 
 * _Dulces exuviae_ - Adrian Willaert
 * _Mirabile Mysterium_ (4’30”) - Adrian Willaert [CPDL #37020](http://www.cpdl.org/wiki/index.php/Mirabile_mysterium_%28Adrian_Willaert%29)
 * _O magnum mysterium_ - Adrian Willaert [CPDL #21811](http://www.cpdl.org/wiki/index.php/O_magnum_mysterium_%28Adrian_Willaert%29)
-* _Pater noster / Ave Maria_ - Adrian Willaert  [CPDL #12137](http://www.cpdl.org/wiki/index.php/Pater_noster_-_Ave_Maria_%28Adrian_Willaert%29)
-* _Missa Christus Resurgens_ - Adrian Willaert *CMM 3-09 Vol.IX*
+* _Pater noster / Ave Maria_ - Adrian Willaert [CPDL #12137](http://www.cpdl.org/wiki/index.php/Pater_noster_-_Ave_Maria_%28Adrian_Willaert%29)
+* _Missa Christus Resurgens - Kyrie_ - Adrian Willaert *CMM 3-09 Vol.IX*
 
 Willaert (secular):
 

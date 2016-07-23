@@ -4,6 +4,18 @@ title: Agenda
 Type: page
 ---
 
+*January 2017*
+
+* Isaac, Festa, Martini & Willaert - [The Florentine renaissance](/2017-01-15)
+
+*October 2016*
+
+* Adrian Willaert & Clemens non Papa - [Sacred & secular](/2015-10-10)
+
+*March 2016*
+
+* Pipelare, de La Rue, de Sermisy, Willaert, de Rore, Marenzio & Sweelinck - [Madrigals from Bosch to Breughel](/2016-01-17)
+
 *October 2015*
 
 * Marenzio & de Rore - [Italian madrigals](/2015-10-10)
