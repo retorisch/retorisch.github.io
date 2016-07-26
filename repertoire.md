@@ -12,6 +12,7 @@ Type: page
 * _Quis dabit oculis_ (5’10) - Constanzo Festa [CPDL #39985](http://www.cpdl.org/wiki/index.php/Quis_dabit_oculis_(Costanzo_Festa))
 * _Ave decus virginale_ (2’30) - Johannes Martini
 * _Magnificat secundi toni_ (10’00) - Johannes Martini [CPDL #35487](http://www.cpdl.org/wiki/index.php/Magnificat_secundi_toni_(Johannes_Martini))
+* _Gaudeamus omnes_ - Heinrich Isaac [CPDL #38237](http://www.cpdl.org/wiki/index.php/Gaudeamus_omnes_(Heinrich_Isaac))
 * _’T Meisken was jonck_ (1’40) - Heinrich Isaac
 * _Innsbruck, ich muss dich lassen_ (2’10) - Heinrich Isaac
 
