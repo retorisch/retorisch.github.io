@@ -6,21 +6,23 @@ Type: page
 
 #### Planned - [January 2017](/2017-01-15)
 
-* _Missa Christus Resurgens - Kyrie_ - Adrian Willaert *CMM 3-09 Vol.IX*
-* _Missa Christus Resurgens - Agnus Dei_ - Adrian Willaert *CMM 3-09 Vol.IX*
-* _Qui condolens interitu_ - Constanzo Festa
-* _Quis dabit oculis_ - Constanzo Festa [CPDL #39985](http://www.cpdl.org/wiki/index.php/Quis_dabit_oculis_(Costanzo_Festa))
-* _Ave decus virginale_ - Johannes Martini
-* _Magnificat secundi toni_ - Johannes Martini [CPDL #35487](http://www.cpdl.org/wiki/index.php/Magnificat_secundi_toni_(Johannes_Martini))
-* _’T Meisken was jonck_ - Heinrich Isaac
-* _Innsbruck, ich muss dich lassen_ - Heinrich Isaac
+* _Missa Christus Resurgens - Kyrie_ (4’30) - Adrian Willaert *CMM 3-09 Vol.IX*
+* _Missa Christus Resurgens - Agnus Dei_ (5’30) - Adrian Willaert *CMM 3-09 Vol.IX*
+* _Qui condolens interitu_ (2’00) - Constanzo Festa
+* _Quis dabit oculis_ (5’10) - Constanzo Festa [CPDL #39985](http://www.cpdl.org/wiki/index.php/Quis_dabit_oculis_(Costanzo_Festa))
+* _Ave decus virginale_ (2’30) - Johannes Martini
+* _Magnificat secundi toni_ (10’00) - Johannes Martini [CPDL #35487](http://www.cpdl.org/wiki/index.php/Magnificat_secundi_toni_(Johannes_Martini))
+* _’T Meisken was jonck_ (1’40) - Heinrich Isaac
+* _Innsbruck, ich muss dich lassen_ (2’10) - Heinrich Isaac
+
+Approximate length: 33’30 + 8×0’30 (introduction) = 37’30
 
 #### Planned - [October 2016](/2015-10-10)
 
 Willaert (sacred):
 
 * _Dulces exuviae_ - Adrian Willaert
-* _Mirabile Mysterium_ (4’30”) - Adrian Willaert [CPDL #37020](http://www.cpdl.org/wiki/index.php/Mirabile_mysterium_%28Adrian_Willaert%29)
+* _Mirabile Mysterium_ (4’30) - Adrian Willaert [CPDL #37020](http://www.cpdl.org/wiki/index.php/Mirabile_mysterium_%28Adrian_Willaert%29)
 * _O magnum mysterium_ - Adrian Willaert [CPDL #21811](http://www.cpdl.org/wiki/index.php/O_magnum_mysterium_%28Adrian_Willaert%29)
 * _Pater noster / Ave Maria_ - Adrian Willaert [CPDL #12137](http://www.cpdl.org/wiki/index.php/Pater_noster_-_Ave_Maria_%28Adrian_Willaert%29)
 * _Missa Christus Resurgens - Kyrie_ - Adrian Willaert *CMM 3-09 Vol.IX*
@@ -30,14 +32,14 @@ Willaert (secular):
 * _Madonna io non lo so perche lo fai_ - Adrian Willaert
 * _O bene mio_ - Adrian Willaert  [CPDL](http://www.cpdl.org/wiki/index.php/O_bene_mio_%28Adrian_Willaert%29)
 * _Soeur_ - Adrian Willaert
-* _Un giorno mi prego_ (2’10”) - Adrian Willaert [YouTube](https://www.youtube.com/watch?v=oVDKJDzYt1U)
+* _Un giorno mi prego_ (2’10) - Adrian Willaert [YouTube](https://www.youtube.com/watch?v=oVDKJDzYt1U)
 * _Vecchie letrose_ - Adrian Willaert [YouTube](https://www.youtube.com/watch?v=IRMJsWI1zYI)
 * _Zoia Zentil_ - Adrian Willaert
 
 Clemens (sacred):
 
 * _Crux fidelis_ - Jacob Clemens non Papa [CPDL #18582](http://www.cpdl.org/wiki/index.php/Crux_fidelis_%28Jacobus_Clemens_non_Papa%29)
-* _Missa pro defunctis_ (19’30”) - Jacob Clemens non Papa [CPDL #33472](http://www.cpdl.org/wiki/index.php/Missa_pro_defunctis_%28Jacobus_Clemens_non_Papa%29)
+* _Missa pro defunctis_ (19’30) - Jacob Clemens non Papa [CPDL #33472](http://www.cpdl.org/wiki/index.php/Missa_pro_defunctis_%28Jacobus_Clemens_non_Papa%29)
 * _Pere eternel_ - Jacob Clemens non Papa
 
 Clemens (secular):
