@@ -9,6 +9,7 @@ layout: retorisch
 			<div class="meta"><span class="date">{{ page.date | date: '%d %b %Y' }}</span></div>
 			<div class="body-post">
 				{% if page.excerpt %}<span class="introduction">{{ page.excerpt }}</span>{% endif %}
+				{% if page.image %}<p><img src="image/{{ page.image }}"></p>{% endif %}
 				{{ page.content }}
 			</div>
 		</div>
