@@ -10,7 +10,7 @@ Type: page
 
 *October 2016*
 
-* Adrian Willaert & Clemens non Papa - [Sacred & secular](/2015-10-10)
+* Adrian Willaert & Clemens non Papa - [Sacred & secular](/2016-10-01)
 
 *March 2016*
 
