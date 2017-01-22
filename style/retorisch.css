@@ -20,6 +20,12 @@ h1, h2, h3, h4 {
 h1 {
   font-size: 250%;
 }
+h2 {
+  font-size: 150%;
+}
+h2, h3 {
+	margin:1em 0;
+}
 
 
 /* Links & Typography */
@@ -175,19 +181,19 @@ strong, b {
 }
 
 ul.tags {
-  border-top: 1px solid #ccc; 
+  border-top: 1px solid #ccc;
   margin: 20px 0;
   padding: 20px 0;
 }
- 
+
   ul.tags li {
     list-style: none;
   }
- 
+
     ul.tags li a {
-      margin: 0 15px 0 0; 
-      float: left; 
-      font-size: 12px;    
+      margin: 0 15px 0 0;
+      float: left;
+      font-size: 12px;
     }
 
 /* Lists */
@@ -208,7 +214,7 @@ ul li {
 /* Share buttons */
 
 .share-buttons {
-  border-top: 1px solid #ccc; 
+  border-top: 1px solid #ccc;
   margin: 20px 0;
   padding: 20px 0;
 }

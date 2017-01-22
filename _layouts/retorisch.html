@@ -36,11 +36,11 @@
 				<a href="members">Members</a>
 				<a href="archive">Archive</a>
 			</div>
-			
+
 			<div class="container">
 				<div class="{{ page_type }}">
 					<div class="content">
-						<div class="title"><h3><a href="{{ page.url | replace:'.html','' }}">{{ page.title }}</a></h3></div>
+						<div class="title"><h2><a href="{{ page.url | replace:'.html','' }}">{{ page.title }}</a></h2></div>
 							{% if page.date %}
 								<div class="meta"><span class="date">{{ page.date | date_to_long_string }}</span></div>
 							{% endif %}
