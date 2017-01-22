@@ -86,7 +86,8 @@ Type: page
 * _O occhi, manza mia_
 * _Madonna mia, pieta_
 * _La nuict froide et sombre_
-* _Lamentationes Jermiae Prophetae (Feria 5ta in coena Domini, Lamentatio prima)_
+* _Lamentationes Jermiae Prophetae (Feria 5ta in coena Domini, Lamentatio prima)_ -
+[CPDL #28650](http://www.cpdl.org/wiki/index.php/Lamentationes_Hieremiae_Prophetae_%28quatuor_vocum%29_%28Orlando_di_Lasso%29)
 
 
 [Leonard Lechner](https://en.wikipedia.org/wiki/Leonard_Lechner) (c. 1553 – 1606)
@@ -136,7 +137,8 @@ Type: page
 
 [Jean Mouton](https://en.wikipedia.org/wiki/Jean_Mouton) (c. 1459 – 1522)
 
-* _Ave Maria… benedicta tu_
+* _Ave Maria… benedicta tu_ -
+[CPDL #27137](http://www.cpdl.org/wiki/index.php/Ave_Maria,_gratia_plena_a_4_%28Jean_Mouton%29)
 * _Quis dabit oculis?_
 
 
@@ -213,7 +215,8 @@ Type: page
 
 [Tomás Luis de Victoria](https://en.wikipedia.org/wiki/Tomás_Luis_de_Victoria) (c.1548 – 1611)
 
-* _Tenebrae factae sunt_
+* _Tenebrae factae sunt_ -
+[CPDL](http://www.cpdl.org/wiki/index.php/Tenebrae_factae_sunt_%28Tomás_Luis_de_Victoria%29)
 
 
 [Adrian Willaert](https://en.wikipedia.org/wiki/Adrian_Willaert) (c. 1490 – 1562)
